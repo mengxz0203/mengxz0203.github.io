@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我和我的祖国，一刻也不能分割！"
-sidebar-avatar: /img/Me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Me.JPG     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
